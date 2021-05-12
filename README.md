@@ -5,10 +5,10 @@ La prochaine mission de la **NASA**
 
 ## Mais ce n'est past tout
 
-        Court terme      |      Long terme             
------------------------- | ----------------------------
-        Base Lunaire     |      Base Martienne
-Contrôle climat Terre    |      Empêchement du réchauffement climatique
+Court terme | Long terme             
+------------ | -------------
+Base Lunaire | Base Martienne
+Contrôle climat Terre |  Empêchement du réchauffement climatique
 Amélioration de l'observation spatiale | Découverte d'une vie extra-terrestre
 
 
