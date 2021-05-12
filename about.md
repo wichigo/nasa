@@ -1,5 +1,3 @@
-filename: about.md
-
 **"Never Gonna Give You Up"**
 
 We're no strangers to love
