@@ -1,5 +1,3 @@
-title: ABOUT PAGE
-layout: template
 filename: about.md
 
 **"Never Gonna Give You Up"**
