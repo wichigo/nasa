@@ -5,7 +5,12 @@ La prochaine mission de la **NASA**
 
 ## Mais ce n'est past tout
 
-First Header | Second Header
------------- | -------------
-[Base lunaire](https://www.nasa.gov/content/humans-on-the-moon-0)     |      [Base martienne](https://www.nasa.gov/mission_pages/mars/main/index.html)
+        Court terme      |      Long terme             
+------------------------ | ----------------------------
+
+
+* Différentes missions de la Nasa: 
+
+    * [Base lunaire](https://www.nasa.gov/content/humans-on-the-moon-0)
+    * [Base martienne](https://www.nasa.gov/mission_pages/mars/main/index.html)
 
